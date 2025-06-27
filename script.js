@@ -13,3 +13,4 @@ galleryImages.forEach(function(img){
     });
 
 
+
